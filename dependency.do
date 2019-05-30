@@ -9,4 +9,4 @@ the dependencies manually.
 ***/
 
 rcall_check
-rcall: install.packages("readstata13", repos="http://cran.us.r-project.org")
+rcall: install.packages("stringdist", repos="http://cran.us.r-project.org")
